@@ -1,1 +1,1 @@
-streamlit run --server.enableCORS false appy.py
+web: streamlit run --server.enableCORS false appy.py
